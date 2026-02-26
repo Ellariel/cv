@@ -77,12 +77,12 @@ Environmental Attitudes & Behavior
 
 
 ## Courses (*selected*)
-- 2025&emsp; Green Software Practitioner / <a href="https://learn.greensoftware.foundation/">Green Software Foundation</a>
-- 2024&emsp; Renewable Energy, 4 courses Specialization / <a href="https://www.coursera.org/specializations/renewable-energy">University of Colorado Boulder | Coursera</a>
-- 2024&emsp; Electric Industry Operations and Markets / <a href="https://www.coursera.org/learn/electricity">Duke University | Coursera</a>
-- 2022&emsp; Data Science Summer School / <a href="https://www.hertie-school.org/en/">Hertie School</a>
-- 2021&emsp; Quantitative Methods / <a href="https://www.coursera.org/learn/quantitative-methods">University of Amsterdam | Coursera</a>
-- 2020&emsp; Data Science, 10 courses Specialization / <a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins University | Coursera</a>
+2025&emsp; Green Software Practitioner / <a href="https://learn.greensoftware.foundation/">Green Software Foundation</a>  
+2024&emsp; Renewable Energy, 4 courses Specialization / <a href="https://www.coursera.org/specializations/renewable-energy">University of Colorado Boulder | Coursera</a>  
+2024&emsp; Electric Industry Operations and Markets / <a href="https://www.coursera.org/learn/electricity">Duke University | Coursera</a>  
+2022&emsp; Data Science Summer School / <a href="https://www.hertie-school.org/en/">Hertie School</a>  
+2021&emsp; Quantitative Methods / <a href="https://www.coursera.org/learn/quantitative-methods">University of Amsterdam | Coursera</a>  
+2020&emsp; Data Science, 10 courses Specialization / <a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins University | Coursera</a>  
 
 
 ## Other professional skills
