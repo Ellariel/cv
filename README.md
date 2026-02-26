@@ -18,44 +18,44 @@ Environmental Attitudes & Behavior
 
 
 ## Education
-#### 2018 &emsp; M.Sc. in Computer Science (*summa cum laude*)
-*South Ural State University, Russia*
+#### 2018&emsp;M.Sc. in Computer Science (*summa cum laude*)
+&emsp; *South Ural State University, Russia*
 
-#### 2014 &emsp; Ph.D. in Economics (*summa cum laude*)
-*Russian Academy of Sciences, Institute of Economics, Russia*
+#### 2014&emsp;Ph.D. in Economics (*summa cum laude*)
+&emsp; *Russian Academy of Sciences, Institute of Economics, Russia*
 
-#### 2010 &emsp; M.Sc. in Economics (*summa cum laude*)
-*South Ural Institute of Management and Economics, Russia*
+#### 2010&emsp;M.Sc. in Economics (*summa cum laude*)
+&emsp; *South Ural Institute of Management and Economics, Russia*
 
 
 ## Honors
-#### 2025 &emsp; [Robert B. Cialdini Prize](https://spsp.org/membership/awards/outstanding-contributions/cialdini-prize) for an outstanding [paper](https://doi.org/10.1126/sciadv.adj5778) that uses field methods and demonstrates relevance to outside groups.
+#### 2025&emsp;[Robert B. Cialdini Prize](https://spsp.org/membership/awards/outstanding-contributions/cialdini-prize) for an outstanding [paper](https://doi.org/10.1126/sciadv.adj5778) that uses field methods and demonstrates relevance to outside groups.
 
 
 ## Professional experience
 #### 2023.10 – n.d., OFFIS – Institute for Information Technology, Carl von Ossietzky University, Germany
-*Researcher, Research Software Developer, Full-time*
+&emsp; *Researcher, Research Software Developer, Full-time*
 
 #### 2023.09 – 2023.12, Institute for East European Studies, Free University of Berlin, Germany
-*Visiting Researcher, Part-time*
+&emsp; *Visiting Researcher, Part-time*
 
 #### 2023.08 – 2023.10, choyze (GmbH), Germany
-*Data Research Assistant, Part-time*
+&emsp; *Data Research Assistant, Part-time*
 
 #### 2022.09 – 2023.10, L3S Research Center, Leibniz University Hannover, Germany
-*Visiting Researcher, Full-time*
+&emsp; *Visiting Researcher, Full-time*
 
 #### 2022.10 – 2023.08, School of Environmental and Social Studies, Tyumen State University, Russia
-*Senior Researcher, Part-time*
+&emsp; *Senior Researcher, Part-time*
 
 #### 2021.07 – 2022.09, Center for Advanced Governance (NGO), Russia
-*Data Scientist, Data Engineer, Part-time*
+&emsp; *Data Scientist, Data Engineer, Part-time*
 
 #### 2014.09 – 2022.08, The South Ural University of Technology, Russia
-*Vice Rector for Research, Senior Researcher, Associate Professor, Full-time*
+&emsp; *Vice Rector for Research, Senior Researcher, Associate Professor, Full-time*
 
 #### 2010.05 – 2013.05, Mechel Foundation (NGO), Russia
-*Technical Support Engineer, Part-time*
+&emsp; *Technical Support Engineer, Part-time*
 
 
 ## Publications (*selected*)
