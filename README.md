@@ -11,7 +11,7 @@
 [<img src="https://github.com/favicon.ico" width="24" alt="GitHub: ellariel">](https://github.com/ellariel)
 
 
-I am a passionate researcher with a diverse research background in sustainability, spanning social sciences, data science, and computer science. My papers settled in leading journals such as Science Advances, Computer Networks, Engineering Applications of Artificial Intelligence, Neural Computing and Applications, Sustainable Production and Consumption, Sustainable Development, Scientific Data, Collabra Psychology, and others. Open for collaborations!
+I am a passionate researcher with a diverse background in sustainability, spanning social sciences, data science, and computer science. My papers settled in leading journals such as Science Advances, Computer Networks, Engineering Applications of Artificial Intelligence, Neural Computing and Applications, Sustainable Production and Consumption, Sustainable Development, Scientific Data, Collabra Psychology, and others. Open for collaborations!
 
 
 ## Academic interests
