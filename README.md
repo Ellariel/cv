@@ -94,7 +94,7 @@ Environmental Attitudes & Behavior
 2020&emsp; Data Science, 10 courses Specialization / <a href="https://www.coursera.org/specializations/jhu-data-science">John Hopkins University | Coursera</a>  
 
 
-## Other professional skills
+## Skills
 #### Methodological skills
 - Quantitative analysis, econometrics, machine learning
 - Experimental and survey data analysis
