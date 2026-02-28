@@ -34,52 +34,52 @@ Environmental Attitudes & Behavior
 
 ## Professional experience
 #### 2023.10 – n.d., OFFIS – Institute for Information Technology, Carl von Ossietzky University, Germany
-&emsp; *Researcher, Research Software Developer, Full-time*
+&emsp; *Researcher, Research Software Developer*
 
 #### 2023.09 – 2023.12, Institute for East European Studies, Free University of Berlin, Germany
-&emsp; *Visiting Researcher, Part-time*
+&emsp; *Visiting Researcher*
 
 #### 2023.08 – 2023.10, choyze (GmbH), Germany
-&emsp; *Data Research Assistant, Part-time*
+&emsp; *Data Research Assistant*
 
 #### 2022.09 – 2023.10, L3S Research Center, Leibniz University Hannover, Germany
-&emsp; *Visiting Researcher, Full-time*
+&emsp; *Visiting Researcher*
 
 #### 2022.10 – 2023.08, School of Environmental and Social Studies, Tyumen State University, Russia
-&emsp; *Senior Researcher, Part-time*
+&emsp; *Senior Researcher*
 
 #### 2021.07 – 2022.09, Center for Advanced Governance (NGO), Russia
-&emsp; *Data Scientist, Data Engineer, Part-time*
+&emsp; *Data Scientist, Data Engineer*
 
 #### 2018.06 – 2022.08, The South Ural University of Technology, Russia
-&emsp; *Vice Rector for Research, Senior Researcher, Full-time*
+&emsp; *Vice Rector for Research, Senior Researcher*
 
 #### 2014.09 – 2018.06, The South Ural University of Technology, Russia
-&emsp; *Senior Researcher, Associate Professor, Full-time*
+&emsp; *Senior Researcher, Associate Professor*
 
 #### 2010.09 – 2014.09, The South Ural University of Technology, Russia
-&emsp; *Researcher, Lecturer, Part-time*
+&emsp; *Researcher, Lecturer*
 
 #### 2010.05 – 2013.05, Mechel Foundation (NGO), Russia
-&emsp; *Technical Support Engineer, Part-time*
+&emsp; *Technical Support Engineer*
 
 
 ## Publications (*selected*)
 ### Computer Science & Engineering
-- <i>Valko, D., & Kudenko, D.</i> (2025). Hybrid pathfinding optimization for the lightning network with reinforcement learning. <i>Engineering Applications of Artificial Intelligence</i>, <a href="https://doi.org/10.1016/j.engappai.2025.110225">https://doi.org/10.1016/j.engappai.2025.110225</a>
-- <i>Valko, D., & Marx Gómez, J.</i> (2025). Geolocated lightning network topology snapshots: A dataset covering 2019–2023. <i>Scientific Data</i>, <a href="https://doi.org/10.1038/s41597-025-06413-7">https://doi.org/10.1038/s41597-025-06413-7</a>
-- <i>Valko, D., & Kudenko, D.</i> (2025). Increasing energy efficiency of bitcoin infrastructure with reinforcement learning and one-shot path planning for the lightning network. <i>Neural Computing and Applications</i>, <a href="https://doi.org/10.1007/s00521-024-10588-2">https://doi.org/10.1007/s00521-024-10588-2</a>
-- <i>Valko, D., Alsharif, S., & Rosinger, S.</i> (2025). Mix matters: Technical evaluation of a carbon-aware power plant operation strategy for an industrial area in Bremen. <i>In Proc. of the European Simulation and Modelling Conference 2025 (ESM 2025), Ghent, Belgium</i>, <a href="https://doi.org/10.5281/zenodo.17443836">https://doi.org/10.5281/zenodo.17443836</a>
-- <i>Valko, D., & Kudenko, D.</i> (2024). Reducing CO₂ emissions in a peer-to-peer distributed payment network: Does geography matter in the lightning network? <i>Computer Networks</i>, <a href="https://doi.org/10.1016/j.comnet.2024.110297">https://doi.org/10.1016/j.comnet.2024.110297</a>
-- <i>Valko, D., Alsharif, S., & Tolk, D.</i> (2024). An open-source carbon emissions simulator for smart grid co-simulation scenarios. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, <a href="https://doi.org/10.5281/zenodo.13984401">https://doi.org/10.5281/zenodo.13984401</a>
+- <i>Valko, D., & Kudenko, D.</i> (2025). Hybrid pathfinding optimization for the lightning network with reinforcement learning. <i>Engineering Applications of Artificial Intelligence</i>, https://doi.org/10.1016/j.engappai.2025.110225
+- <i>Valko, D., & Marx Gómez, J.</i> (2025). Geolocated lightning network topology snapshots: A dataset covering 2019–2023. <i>Scientific Data</i>, https://doi.org/10.1038/s41597-025-06413-7
+- <i>Valko, D., & Kudenko, D.</i> (2025). Increasing energy efficiency of bitcoin infrastructure with reinforcement learning and one-shot path planning for the lightning network. <i>Neural Computing and Applications</i>, https://doi.org/10.1007/s00521-024-10588-2
+- <i>Valko, D., Alsharif, S., & Rosinger, S.</i> (2025). Mix matters: Technical evaluation of a carbon-aware power plant operation strategy for an industrial area in Bremen. <i>In Proc. of the European Simulation and Modelling Conference 2025 (ESM 2025), Ghent, Belgium</i>, https://doi.org/10.5281/zenodo.17443836
+- <i>Valko, D., & Kudenko, D.</i> (2024). Reducing CO₂ emissions in a peer-to-peer distributed payment network: Does geography matter in the lightning network? <i>Computer Networks</i>, https://doi.org/10.1016/j.comnet.2024.110297
+- <i>Valko, D., Alsharif, S., & Tolk, D.</i> (2024). An open-source carbon emissions simulator for smart grid co-simulation scenarios. <i>In Proc. of the European Simulation and Modelling Conference 2024 (ESM 2024), San Sebastian, Spain</i>, https://doi.org/10.5281/zenodo.13984401
 
 ### Social & Behavioural Science
-- <i>Valko, D., & Thompson, K.</i> (2025). Cultural differences and interdependencies in climate change mitigation efforts and their psychological antecedents across 63 countries. <i>Sustainable Development</i>, <a href="https://doi.org/10.1002/sd.70454">https://doi.org/10.1002/sd.70454</a>
-- <i>Sosnovskikh, S., Valko, D., & Meyer-Alten, R.</i> (2025). Predictors of sustainable investment motivation: An interpretable machine learning approach. <i>Sustainable Development</i>, <a href="https://doi.org/10.1002/sd.3387">https://doi.org/10.1002/sd.3387</a>
-- <i>Vlasceanu, M., Doell, K. C., Bak-Coleman, J. B., ..., Valko, D., ..., & Van Bavel, J. J.</i> (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries. <i>Science Advances</i>, <a href="https://doi.org/10.1126/sciadv.adj5778">https://doi.org/10.1126/sciadv.adj5778</a>
-- <i>Valko, D., Vasilevskaia, M., Bunina, M., Kozlova, M., Filippova, A. M., & Rud, D.</i> (2024). Educational and Career Trajectories in Russia: Introducing a New Source and Datasets with a High Granularity. <i>Research Data Journal for the Humanities and Social Sciences</i>, <a href="https://doi.org/10.1163/24523666-bja10046">https://doi.org/10.1163/24523666-bja10046</a>
-- <i>Valko, D.</i> (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. <i>Collabra: Psychology</i>, <a href="https://doi.org/10.1525/collabra.73637">https://doi.org/10.1525/collabra.73637</a>
-- <i>Valko, D.</i> (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. <i>Sustainable Production and Consumption</i>, <a href="https://doi.org/10.1016/j.spc.2021.05.008">https://doi.org/10.1016/j.spc.2021.05.008</a>
+- <i>Valko, D., & Thompson, K.</i> (2025). Cultural differences and interdependencies in climate change mitigation efforts and their psychological antecedents across 63 countries. <i>Sustainable Development</i>, https://doi.org/10.1002/sd.70454
+- <i>Sosnovskikh, S., Valko, D., & Meyer-Alten, R.</i> (2025). Predictors of sustainable investment motivation: An interpretable machine learning approach. <i>Sustainable Development</i>, https://doi.org/10.1002/sd.3387
+- <i>Vlasceanu, M., Doell, K. C., ..., Valko, D., ..., & Van Bavel, J. J.</i> (2024). Addressing climate change with behavioral science: A global intervention tournament in 63 countries. <i>Science Advances</i>, https://doi.org/10.1126/sciadv.adj5778
+- <i>Valko, D., Vasilevskaia, M., Bunina, M., Kozlova, M., Filippova, A. M., & Rud, D.</i> (2024). Educational and career trajectories in Russia: Introducing a new source and datasets with a high granularity. <i>Research Data Journal for the Humanities and Social Sciences</i>, https://doi.org/10.1163/24523666-bja10046
+- <i>Valko, D.</i> (2023). Does going green feel good in Russia: implicit measurements with visual stimuli. <i>Collabra: Psychology</i>, https://doi.org/10.1525/collabra.73637
+- <i>Valko, D.</i> (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. <i>Sustainable Production and Consumption</i>, https://doi.org/10.1016/j.spc.2021.05.008
 
 
 ## Courses (*selected*)
