@@ -69,6 +69,7 @@ Environmental Attitudes & Behavior
 
 ## Publications (*selected*)
 ### Computer Science & Engineering
+- <i>Valko, D., Schwarz, J. S., Isenmann, R., & Marx Gómez, J.</i> (2026). Advancing energy system research with the FAIR+S framework. <i>In Proc. of the 3rd NFDI4Energy Conference, Aachen, Germany</i>, https://doi.org/10.52825/ocp.v9i.3278
 - <i>Valko, D., & Kudenko, D.</i> (2025). Hybrid pathfinding optimization for the lightning network with reinforcement learning. <i>Engineering Applications of Artificial Intelligence</i>, https://doi.org/10.1016/j.engappai.2025.110225
 - <i>Valko, D., & Marx Gómez, J.</i> (2025). Geolocated lightning network topology snapshots: A dataset covering 2019–2023. <i>Scientific Data</i>, https://doi.org/10.1038/s41597-025-06413-7
 - <i>Valko, D., & Kudenko, D.</i> (2025). Increasing energy efficiency of bitcoin infrastructure with reinforcement learning and one-shot path planning for the lightning network. <i>Neural Computing and Applications</i>, https://doi.org/10.1007/s00521-024-10588-2
