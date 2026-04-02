@@ -54,13 +54,13 @@ Environmental Attitudes & Behavior
 #### 2021.07 – 2022.09, Center for Advanced Governance (NGO), Russia
 &emsp; *Data Scientist, Data Engineer*
 
-#### 2018.06 – 2022.08, The South Ural University of Technology, Russia
+#### 2018.06 – 2022.08, South Ural University of Technology, Russia
 &emsp; *Vice Rector for Research, Senior Researcher*
 
-#### 2014.09 – 2018.06, The South Ural University of Technology, Russia
+#### 2014.09 – 2018.06, South Ural University of Technology, Russia
 &emsp; *Senior Researcher, Associate Professor*
 
-#### 2010.09 – 2014.09, The South Ural University of Technology, Russia
+#### 2010.09 – 2014.09, South Ural University of Technology, Russia
 &emsp; *Researcher, Lecturer*
 
 #### 2010.05 – 2013.05, Mechel Foundation (NGO), Russia
