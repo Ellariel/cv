@@ -33,7 +33,7 @@ Environmental Attitudes & Behavior
 
 ## Honors
 #### 2025&emsp;[Robert B. Cialdini Prize](https://spsp.org/membership/awards/outstanding-contributions/cialdini-prize) for an outstanding [paper](https://doi.org/10.1126/sciadv.adj5778) that uses field methods and demonstrates relevance to outside groups.
-
+#### 2024&emsp;Awarded “Best Publication of the Quarter” at the L3S Research Center for a [paper](https://doi.org/10.1016/j.comnet.2024.110297) in the “Green AI and Computing” category.
 
 ## Professional experience
 #### 2023.10 – n.d., OFFIS – Institute for Information Technology, Carl von Ossietzky University, Germany
