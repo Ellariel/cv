@@ -110,7 +110,7 @@ Environmental Attitudes & Behavior
 - Software development: Python/PyTorch/OpenCV, C#, NodeJS, HTML/CSS/JS
 
 #### Languages
-- English (advanced), German (advanced)
+- English (advanced), German (independent)
 
 
 
