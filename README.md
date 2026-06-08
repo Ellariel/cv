@@ -33,8 +33,8 @@ Environmental Attitudes & Behavior
 
 ## Honors
 #### 2025&emsp;[Robert B. Cialdini Prize](https://spsp.org/membership/awards/outstanding-contributions/cialdini-prize) for an outstanding [paper](https://doi.org/10.1126/sciadv.adj5778) that uses field methods and demonstrates relevance to outside groups.
-#### 2025&emsp;Awarded “Best Publication of the Quarter” (Q3+Q4 2025) at the L3S Research Center for a [paper](https://doi.org/10.1016/j.engappai.2025.110225) in the “Green AI” category.
-#### 2024&emsp;Awarded “Best Publication of the Quarter” (Q1 2024) at the L3S Research Center for a [paper](https://doi.org/10.1016/j.comnet.2024.110297) in the “Green AI and Computing” category.
+#### 2025&emsp;Awarded “Best Publication of the Quarter” (Q3+Q4 2025) at the [L3S Research Center](https://www.l3s.de/) for a [paper](https://doi.org/10.1016/j.engappai.2025.110225) in the “Green AI” category.
+#### 2024&emsp;Awarded “Best Publication of the Quarter” (Q1 2024) at the [L3S Research Center](https://www.l3s.de/) for a [paper](https://doi.org/10.1016/j.comnet.2024.110297) in the “Green AI and Computing” category.
 
 ## Professional experience
 #### 2023.10 – n.d., OFFIS – Institute for Information Technology, Carl von Ossietzky University, Germany
@@ -100,7 +100,7 @@ Environmental Attitudes & Behavior
 
 ## Skills
 #### Methodological skills
-- Quantitative analysis, econometrics, machine learning
+- Quantitative methods, econometrics (including structural, spatial and mixed-level), machine learning and LLM
 - Experimental and survey data analysis
 - Policy evaluation and causal inference
 
