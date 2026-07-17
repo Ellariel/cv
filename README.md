@@ -16,7 +16,7 @@ I am a passionate researcher with a diverse background in sustainability, spanni
 
 ## Academic interests
 Sustainability | Energy Informatics | Green Computing  
-Social & Data Science for Sustainability  
+Social & Data Science for Sustainability & Climate Change  
 Environmental Attitudes & Behavior  
 
 
