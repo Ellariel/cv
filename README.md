@@ -113,6 +113,9 @@ Environmental Attitudes & Behavior
 - English (advanced), German (independent)
 
 
+## Other
+- I am the first in my family to pursue an academic career (“first-generation academic”).
+- At the time I completed my first university degree in Economics in Russia, the standard program lasted five years. I was awarded a “Specialist” degree, which is recognized as equivalent to a Master’s degree. A separate Bachelor’s degree was not awarded, as the Bachelor’s stage had not yet been introduced in the Russian education system.
 
 
 
