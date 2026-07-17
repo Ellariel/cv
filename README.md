@@ -38,7 +38,7 @@ Environmental Attitudes & Behavior
 
 ## Professional experience
 #### 2023.10 – n.d., OFFIS – Institute for Information Technology, Carl von Ossietzky University, Germany
-&emsp; *Researcher, Research Software Developer*
+&emsp; *Senior Researcher, Research Software Developer*
 
 #### 2023.09 – 2023.12, Institute for East European Studies, Free University of Berlin, Germany
 &emsp; *Visiting Researcher*
