@@ -4,10 +4,11 @@
 *M.Sc. in Computer Science*  
 <sup>danila.valko@proton.me</sup>  
 
-[<img src="https://www.linkedin.com/favicon.ico" width="24" alt="LinkedIn">](https://www.linkedin.com/in/danila-valko)
-[<img src="https://orcid.org/favicon.ico" width="22" alt="ORCID: 0000-0002-8058-7539">](https://orcid.org/0000-0002-8058-7539)
-[<img src="https://www.researchgate.net/favicon.ico" width="21" alt="Research Gate">](https://www.researchgate.net/profile/Danila-Valko)
-[<img src="https://scholar.google.com/favicon.ico" width="22" alt="Google Scholar">](https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en)
+
+[<img src="https://orcid.org/favicon.ico" width="22" alt="ORCID: 0000-0002-8058-7539">](https://orcid.org/0000-0002-8058-7539) &nbsp;&#775;&nbsp; 
+[<img src="https://scholar.google.com/favicon.ico" width="22" alt="Google Scholar">](https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en) &nbsp;&#775;&nbsp; 
+[<img src="https://www.researchgate.net/favicon.ico" width="21" alt="Research Gate">](https://www.researchgate.net/profile/Danila-Valko) &nbsp;&#775;&nbsp; 
+[<img src="https://www.linkedin.com/favicon.ico" width="24" alt="LinkedIn">](https://www.linkedin.com/in/danila-valko) &nbsp;&#775;&nbsp; 
 [<img src="https://github.com/favicon.ico" width="24" alt="GitHub: ellariel">](https://github.com/ellariel)
 
 
