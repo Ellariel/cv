@@ -14,7 +14,7 @@
 
 My research lies at the intersection of behavioural science, sustainability, sustainable development, energy systems research, and modern computational and simulation methods. I am interested in understanding how people, policymakers, and sociotechnical systems perceive, respond to, and adopt sustainability solutions, and how these insights can bridge methodological rigor with real-world societal impact. My work focuses on identifying systemic and sociotechnical solutions, as well as behavioural and policy interventions, that can help societies operate within planetary boundaries.
 
-Working across the social and behavioural sciences, data science, and computer science is both exciting and challenging. While an interdisciplinary background does not always fit neatly within traditional academic disciplines, it has allowed me to explore complex sustainability questions from multiple perspectives.
+Working across the social and behavioural sciences, data science, and computer science is both exciting and challenging. While an interdisciplinary background does not always fit neatly within traditional academic departments, it has allowed me to explore complex sustainability questions from multiple perspectives.
 
 My research has been published in journals including *Science Advances*, *Computer Networks*, *Engineering Applications of Artificial Intelligence*, *Neural Computing and Applications*, *Sustainable Production and Consumption*, *Sustainable Development*, *Scientific Data*, *Collabra Psychology*, and others.
 
