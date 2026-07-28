@@ -51,7 +51,7 @@ Data Science for Sustainability | Green Computing & AI
 &emsp; *Visiting Researcher*
 
 #### 2023.08 – 2023.10, choyze (GmbH), Germany
-&emsp; *Data Research Assistant*
+&emsp; *Data Research Analyst*
 
 #### 2022.09 – 2023.10, L3S Research Center, Leibniz University Hannover, Germany
 &emsp; *Visiting Researcher*
