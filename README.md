@@ -28,13 +28,13 @@ Data Science for Sustainability | Green Computing & AI
 
 
 ## Education
-#### 2018&emsp;M.Sc. in Computer Science (*summa cum laude*)
+#### 2018&emsp;M.Sc. in Computer Science (*with distinction*)
 &emsp; *South Ural State University, Russia*
 
-#### 2014&emsp;Ph.D. in Economics (*summa cum laude*)
+#### 2014&emsp;Ph.D. in Economics (*with distinction*)
 &emsp; *Russian Academy of Sciences, Institute of Economics, Russia*
 
-#### 2010&emsp;M.Sc. in Economics (*summa cum laude*)
+#### 2010&emsp;M.Sc. in Economics (*with distinction*)
 &emsp; *South Ural Institute of Management and Economics, Russia*
 
 
