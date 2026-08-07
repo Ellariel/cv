@@ -77,6 +77,7 @@ Data Science for Sustainability | Green Computing & AI
 
 ## Publications (*selected*)
 ### Computer Science & Engineering
+- <i>Valko, D., & Marx Gómez, J.</i> (2026). Topological and temporal stability analysis of the lightning network. <i>Applied Network Science</i>, [https://doi.org/10.1007/s41109-026-00820-4](https://doi.org/10.1007/s41109-026-00820-4)
 - <i>Valko, D., Schwarz, J. S., Isenmann, R., & Marx Gómez, J.</i> (2026). Advancing energy system research with the FAIR+S framework. <i>In Proc. of the 3rd NFDI4Energy Conference, Aachen, Germany</i>, [https://doi.org/10.52825/ocp.v9i.3278](https://doi.org/10.52825/ocp.v9i.3278)
 - <i>Valko, D., & Kudenko, D.</i> (2025). Hybrid pathfinding optimization for the lightning network with reinforcement learning. <i>Engineering Applications of Artificial Intelligence</i>, [https://doi.org/10.1016/j.engappai.2025.110225](https://doi.org/10.1016/j.engappai.2025.110225)
 - <i>Valko, D., & Marx Gómez, J.</i> (2025). Geolocated lightning network topology snapshots: A dataset covering 2019–2023. <i>Scientific Data</i>, [https://doi.org/10.1038/s41597-025-06413-7](https://doi.org/10.1038/s41597-025-06413-7)
