@@ -75,7 +75,7 @@ Data Science for Sustainability | Green Computing & AI
 &emsp; *Technical Support Engineer*
 
 
-## Publications (*selected*)
+## Publications (*Recent*)
 ### Computer Science & Engineering
 - <i>Valko, D., & Marx Gómez, J.</i> (2026). Topological and temporal stability analysis of the lightning network. <i>Applied Network Science</i>, [https://doi.org/10.1007/s41109-026-00820-4](https://doi.org/10.1007/s41109-026-00820-4)
 - <i>Valko, D., Schwarz, J. S., Isenmann, R., & Marx Gómez, J.</i> (2026). Advancing energy system research with the FAIR+S framework. <i>In Proc. of the 3rd NFDI4Energy Conference, Aachen, Germany</i>, [https://doi.org/10.52825/ocp.v9i.3278](https://doi.org/10.52825/ocp.v9i.3278)
@@ -97,7 +97,7 @@ Data Science for Sustainability | Green Computing & AI
 - <i>Valko, D.</i> (2021). Environmental attitudes and contextual stimuli in emerging environmental culture: An empirical study from Russia. <i>Sustainable Production and Consumption</i>, [https://doi.org/10.1016/j.spc.2021.05.008](https://doi.org/10.1016/j.spc.2021.05.008)
 
 
-## Courses (*selected*)
+## Courses (*Recent*)
 2025&emsp; Green Software Practitioner / <a href="https://learn.greensoftware.foundation/">Green Software Foundation</a>  
 2024&emsp; Renewable Energy, 4 courses Specialization / <a href="https://www.coursera.org/specializations/renewable-energy">University of Colorado Boulder | Coursera</a>  
 2024&emsp; Electric Industry Operations and Markets / <a href="https://www.coursera.org/learn/electricity">Duke University | Coursera</a>  
