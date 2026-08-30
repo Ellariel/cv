@@ -108,13 +108,15 @@ Data Science for Sustainability | Green Computing & AI
 
 ## Skills
 #### Methodological skills
-- Quantitative methods, econometrics (including structural, spatial and mixed-level), machine learning and LLM
-- Experimental and survey data analysis
-- Policy evaluation and causal inference
+- Experiment and survey design, data analysis
+- Quantitative methods, econometrics (including structural, spatial and mixed-level models)
+- Policy evaluation and impact assessment
+- Machine learning and LLMs
 
 #### Programming & Simulation
 - Python, R (data analysis, modeling, simulation workflows)
 - Statistical and computational analysis (SPSS, Stata)
+- Coding agents, prompt engineering
 - Software development: Python/PyTorch/OpenCV, C#, NodeJS, HTML/CSS/JS
 
 #### Languages
