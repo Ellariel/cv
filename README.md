@@ -108,9 +108,9 @@ Data Science for Sustainability | Green Computing & AI
 
 ## Skills
 #### Methodological skills
-- Experimental and field-study survey design
-- Computational methods for social science
+- Experimental and field-study survey design, Qualtrics and LimeSurvey
 - Econometrics (including structural, spatial and mixed-level models)
+- Computational methods for social science
 - Policy evaluation and impact assessment
 - Machine learning and LLMs
 
