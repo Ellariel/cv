@@ -1,0 +1,11 @@
+title: "Danila Valko"
+description: "Senior Researcher, OFFIS – Institute for Information Technology. Interdisciplinary researcher working across sustainability, energy systems, and behavioural & computational science."
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
