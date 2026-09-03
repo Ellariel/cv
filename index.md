@@ -15,11 +15,11 @@ description: "Senior Researcher, OFFIS – Institute for Information Technology.
 <p class="contact"><a href="mailto:danila.valko@proton.me"><span class="icon icon-mail"></span> danila.valko@proton.me</a></p>
 
 <nav class="social" aria-label="Profiles">
-  <a href="https://orcid.org/0000-0002-8058-7539" title="ORCID"><span class="icon icon-orcid"></span></a>
-  <a href="https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en" title="Google Scholar"><span class="icon icon-scholar"></span></a>
-  <a href="https://www.researchgate.net/profile/Danila-Valko" title="ResearchGate"><span class="icon icon-researchgate"></span></a>
-  <a href="https://www.linkedin.com/in/danila-valko" title="LinkedIn"><span class="icon icon-linkedin"></span></a>
-  <a href="https://github.com/ellariel" title="GitHub"><span class="icon icon-github"></span></a>
+  <a href="https://orcid.org/0000-0002-8058-7539" title="ORCID"><span class="icon icon-orcid"></span><span class="visually-hidden"> ORCID </span></a>
+  <a href="https://scholar.google.com/citations?user=8f3WFJAAAAAJ&hl=en" title="Google Scholar"><span class="icon icon-scholar"></span><span class="visually-hidden"> Google Scholar </span></a>
+  <a href="https://www.researchgate.net/profile/Danila-Valko" title="ResearchGate"><span class="icon icon-researchgate"></span><span class="visually-hidden"> ResearchGate </span></a>
+  <a href="https://www.linkedin.com/in/danila-valko" title="LinkedIn"><span class="icon icon-linkedin"></span><span class="visually-hidden"> LinkedIn </span></a>
+  <a href="https://github.com/ellariel" title="GitHub"><span class="icon icon-github"></span><span class="visually-hidden"> GitHub </span></a>
 </nav>
 
 </header>
