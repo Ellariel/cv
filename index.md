@@ -24,13 +24,13 @@ description: "Senior Researcher, OFFIS – Institute for Information Technology.
 
 </header>
 
-I work at the intersection of behavioural science, energy systems, and computational methods: carbon-aware power system operation, reinforcement learning for greener network infrastructure, and cross-country studies of climate attitudes and policy interventions. The common thread is how people, policymakers, and technical systems actually adopt, or resist, sustainability solutions, and how to connect methodological rigor with real-world impact.
+I work at the intersection of behavioural science, energy systems research, and computational methods, combining perspectives from social, data, and computer science to understand how people, policymakers, and technical systems actually adopt, or resist, sustainability solutions, and how to connect methodological rigor with real-world impact.
 
-That combination spans social science, data science, and computer science, rarely fitting one department, but letting me approach sustainability questions from more than one angle. My work has appeared in *Science Advances*, *Computer Networks*, *Engineering Applications of Artificial Intelligence*, *Scientific Data*, and *Sustainable Development*, among others. Open to collaborations, and always happy to connect.
+My work has appeared in *Science Advances*, *Computer Networks*, *Engineering Applications of Artificial Intelligence*, *Scientific Data*, and *Sustainable Development*, among others. Open to collaborations, and always happy to connect.
 
 ## Academic interests
 
-Sustainability & Climate Change · Energy Informatics · Green Transition · Environmental Attitudes & Behavior · Climate Change Mitigation & Policy · Data Science for Sustainability · Green Computing & AI
+Sustainability & Climate Change · Energy Informatics & Green Transition · Environmental Attitudes & Behavior · Climate Change Mitigation & Policy · Green Computing & AI · Data Science for Sustainability
 
 ## Education
 
