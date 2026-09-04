@@ -116,7 +116,7 @@ Sustainability & Climate Change · Energy Informatics & Green Transition · Envi
 
 - Python (PyTorch, OpenCV), C#, Node.js, HTML/CSS/JS
 - Co-simulation and agent-based modeling for energy systems
-- Research software development and open-data pipelines
+- Research software development and FAIR & open-data pipelines
 
 ### Languages
 
